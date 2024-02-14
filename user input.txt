@@ -1,3 +1,0 @@
-Moonlight Cafe
-pizza,burger,maggie,french fries,pasta
-700,400,200,350,200
